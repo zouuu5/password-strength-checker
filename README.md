@@ -1,4 +1,4 @@
-# password-strength-checker
+
 # Password Strength Checker
 
 This Python script evaluates the strength of a password based on:
